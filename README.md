@@ -30,6 +30,8 @@ two_tower_recsys/
 ├── .gitignore             # Excludes large binaries and dataset dumps
 └── README.md              # Project documentation
 
+---
+
 Getting Started
 1. Clone and Setup
 Bash
