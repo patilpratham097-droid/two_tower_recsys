@@ -30,9 +30,7 @@ two_tower_recsys/
 ├── .gitignore             # Excludes large binaries and dataset dumps
 └── README.md              # Project documentation
 
----
-
-Getting Started
+## Getting Started
 1. Clone and Setup
 Bash
 git clone [https://github.com/patilpratham097-droid/two_tower_recsys.git](https://github.com/patilpratham097-droid/two_tower_recsys.git)
