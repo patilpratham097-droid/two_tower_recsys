@@ -34,18 +34,18 @@ two_tower_recsys/
 ---
 
 Getting Started
-1. Clone and Setup
+1. Clone and Setup:
 ```bash
-git clone [https://github.com/patilpratham097-droid/two_tower_recsys.git](https://github.com/patilpratham097-droid/two_tower_recsys.git)
+git clone https://github.com/patilpratham097-droid/two_tower_recsys.git
 cd two_tower_recsys
 pip install torch pandas
 ```
-2. Train the Model
+2. Train the Model:
 The training script automatically fetches and extracts the `MovieLens 100K` dataset, builds the genre matrix, trains for 5 epochs using Binary Cross-Entropy loss, and saves the weights:
 ```bash
 python -m src.train
 ```
-3. Generate Recommendations
+3. Generate Recommendations:
 Run inference for any user ID to output top hybrid recommendations complete with readable movie titles:
 ```bash
 python -m src.recommend
