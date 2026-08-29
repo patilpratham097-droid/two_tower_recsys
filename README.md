@@ -29,6 +29,7 @@ two_tower_recsys/
 │   └── recommend.py       # Inference script for fast vector similarity retrieval
 ├── .gitignore             # Excludes large binaries and dataset dumps
 └── README.md              # Project documentation
+
 Getting Started
 1. Clone and Setup
 Bash
