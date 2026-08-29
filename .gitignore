@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Trained model weights (too heavy for git)
+models/
+
+# Dataset files (downloaded locally)
+data/
