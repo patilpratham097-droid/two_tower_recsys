@@ -34,6 +34,7 @@ two_tower_recsys/
 ---
 
 Getting Started
+
 1.Clone and Setup:
 ```bash
 git clone https://github.com/patilpratham097-droid/two_tower_recsys.git
